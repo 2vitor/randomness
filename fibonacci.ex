@@ -5,5 +5,3 @@ defmodule Fibonacci do
 end
 
 Fibonacci.fib(10); # returns 55
-
-
